@@ -6,3 +6,4 @@
 * Pandas 
 * NumPy library
 * Matplotlib
+* Scikit-Learn
